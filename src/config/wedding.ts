@@ -103,10 +103,14 @@ export const wedding = {
     "/images/foto-1.jpeg",
     "/images/foto-2.jpeg",
     "/images/foto-3.jpeg",
-    "/images/foto-4.jpeg",
+    "/images/foto-12.jpeg",
     "/images/foto-5.jpeg",
     "/images/foto-6.jpeg",
-    "/images/foto-7.jpeg",
+    "/images/foto-8.jpeg",
+    "/images/foto-9.jpeg",
+    "/images/foto-10.jpeg",
+    "/images/foto-4.jpeg",
+    
   ],
 };
 
